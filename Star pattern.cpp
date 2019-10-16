@@ -1,3 +1,11 @@
+# Star pattern
+## Aim
+To print....
+## Algo
+ hirhig
+
+
+
 #include<stdio.h>
 main()
 {
@@ -18,8 +26,3 @@ main()
  }
  return 0;
 }
-# Star pattern
-## Aim
-To print....
-## Algo
- hirhig
