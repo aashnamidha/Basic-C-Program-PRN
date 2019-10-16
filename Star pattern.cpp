@@ -18,3 +18,8 @@ main()
  }
  return 0;
 }
+# Star pattern
+## Aim
+To print....
+## Algo
+ hirhig
